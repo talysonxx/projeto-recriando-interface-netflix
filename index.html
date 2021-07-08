@@ -5,8 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Netflix - Página inicial</title>
-    <link rel="stylesheet" href="_css/main.css">
-    <script src="https://kit.fontawesome.com/829331f28a.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style/main.css">
+
+    <!-- responsividade -->
+    <link rel="stylesheet" href="style/responsive.css">
+
+    <!-- owl css -->
+    <link rel="stylesheet" href="style/_owl/owl.carousel.min.css">
+    <link rel="stylesheet" href="style/_owl/owl.theme.default.min.css">
 </head>
 <body>
     <!-- cabecalho -->
@@ -29,7 +35,7 @@
         <div class="filme-principal">
             <div class="container">
                 <h2 class="titulo">Sword Art Online - Ordinal Scale</h2>
-                <p class="sinopse">Em 2026, 4 anos após o infame incidente de Sword Art Online, uma nova forma de tecnologia emergiu: o Augma, um dispositivo que utiliza um sistema de Realidade Aumentada. Diferente da Realidade Virtual do NerveGear e do Amusphere, é perfeitamente seguro e permite aos jogadores à usarem enquanto estão conscientes, gerando um grande hit no mercado. A aplicação mais popular do Augma é o jogo Ordinal Scale, que emerge os jogadores em um RPG de fantasia com rankings e recompensas. Seguindo a nova mania, os amigos de Kirito mergulham no jogo e, apesar de seus receios sobre o sistema, Kirito eventualmente se junta à eles. Enquanto parece ser algo apenas para diversão e jogos à princípio, eles logo descobrem que o jogo não é tudo o que parece...</p>
+                <p class="sinopse">Em um futuro próximo, uma batalha de máquinas altamente desenvolvidas está se delineando. O ano é 2026 e Augma, um novo dispositivo, acaba de ser criado para competir com o NerveGear e o Amusphere, seu sucessor. Usando uma espécie de realidade aumentada, a tecnologia logo vira febre pelo curioso jogo Ordinal Scale, o mais popular do sistema. O jovem Kirito, que logo se interessa e começa a jogá-lo, mas logo vai perceber que o jogo não é feito só de diversão.</p>
                 <div class="botoes">
                     <button class="botao" role="button">
                         <i class="fas fa-play-circle"></i>
@@ -43,5 +49,60 @@
             </div>
         </div>
     </main>
+
+    <!-- carrosel de filmes -->
+    <div class="carrosel-filmes">
+        <!-- carrosel 1 -->
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/re-zero/logo.jpg" alt="Re:Zero">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/h-h/logo.jpg" alt="Hunter x Hunter">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/steins-gate/logo.jpg" alt="Steins;Gate">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/naruto-shippuden/logo.jpg" alt="Naruto Shippuden">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/your-name/logo.jpg" alt="Your Name">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/snk/logo.jpg" alt="Atack On Titan">
+            </div>
+        </div>
+
+        <!-- carrosel 2 -->
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/kobayashi-san-chi/logo.jpg" alt="Kobayashi-san Chi no Maid Dragon">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/angel-beats/logo.jpg" alt="Angel Beats">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/dororo/logo.jpg" alt="Dororo">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/progressive/logo-1.jpg" alt="Sword Art Online - Progressive">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/dr-stone/logo.jpg" alt="Dr. Stone">
+            </div>
+            <div class="item">
+                <img class="box-filme" src="_sources/_img/jose/logo.jpg" alt="Josee">
+            </div>
+        </div>
+    </div>
+
+     <!-- icons font awasome -->
+     <script src="https://kit.fontawesome.com/829331f28a.js" crossorigin="anonymous"></script>
+
+     <!-- owl js -->
+     <script src="_js/_owl/jquery.min.js"></script>
+     <script src="_js/_owl/owl.carousel.min.js"></script>
+     <script src="_js/_owl/setup.js"></script>
 </body>
 </html>
