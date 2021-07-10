@@ -1,3 +1,19 @@
+@media only screen and (max-width: 1200px) {
+    .contatos{
+        flex-direction: column;
+        width: 100%;
+    }
+    .contatos h1{
+        text-align: center;
+    }
+    .links{
+        margin-top: 5px;
+    }
+    #informacao{
+        font-size: 12px;
+    }
+    
+}
 @media only screen and (max-width: 700px){
     header .container{
         display: flex;
@@ -53,5 +69,15 @@
     }
     .carrosel-filmes{
         margin-top: 10px;
+    }
+}
+@media only screen and (max-width: 430px){
+    .filme-principal .container{
+        width: 100%;
+    }
+    .sinopse{
+        margin-top: 0;
+        width: 90%;
+        margin-bottom: 10px;
     }
 }
