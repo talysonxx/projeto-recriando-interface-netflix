@@ -12,6 +12,9 @@
     #informacao{
         font-size: 12px;
     }
+    .contatos i{
+        margin-left: 15px;
+    }
     
 }
 @media only screen and (max-width: 700px){
@@ -51,7 +54,6 @@
     }
     .titulo{
         font-size: 18px;
-        /* margin-top: 0; */
     }
     .sinopse{
         font-size: 14px;
