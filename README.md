@@ -1,6 +1,7 @@
-# Recriando interface Netflix utilizando HTML, CSS, JavaScript e a biblioteca jQuery
+# Recriando interface da Netflix utilizando HTML, CSS, JavaScript e a biblioteca jQuery
 
-#### Um projeto feito com o bootcamp [html web developer](https://web.digitalinnovation.one/track/html-web-developer?tab=path) da [dio](https://digitalinnovation.one/) (digital innovation one)
+#### Um projeto feito no bootcamp [html web developer](https://web.digitalinnovation.one/track/html-web-developer?tab=path) da [dio](https://digitalinnovation.one/) (digital innovation one)
+
 #### Link no [GitHub Pages](https://talysonxx.github.io/recriando-interface-netflix/)
 
 ###### Meus **contatos**
