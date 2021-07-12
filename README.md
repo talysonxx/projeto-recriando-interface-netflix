@@ -5,10 +5,10 @@
 
 ###### Meus **contatos**
 
-* meu instagram: [@talysonxx](https://instagram.com/talysonxx)
-* meu email: talysonoficial12@gmail.com
-* meu linkedIn:  [Talyson André](https://www.linkedin.com/in/talyson-andré-101897170/)
+* instagram: [@talysonxx](https://instagram.com/talysonxx)
+* email: talysonoficial12@gmail.com
+* linkedIn:  [Talyson André](https://www.linkedin.com/in/talyson-andré-101897170/)
 
-![pic-1](https://user-images.githubusercontent.com/79946114/125329869-64859e80-e31c-11eb-84d2-fbca34c9bf02.png)
-![pic-2](https://user-images.githubusercontent.com/79946114/125329864-63547180-e31c-11eb-8807-d0e9546067e2.png)
-![pic-3](https://user-images.githubusercontent.com/79946114/125329871-651e3500-e31c-11eb-909a-6ebd029876fb.png)
+![pic-1](https://user-images.githubusercontent.com/79946114/125330300-f4c3e380-e31c-11eb-8501-45c67f236f8f.png)
+![pic-2](https://user-images.githubusercontent.com/79946114/125330311-f8576a80-e31c-11eb-8886-e505c71d1f7e.png)
+![pic-3](https://user-images.githubusercontent.com/79946114/125330316-fab9c480-e31c-11eb-935a-2f5f2c6c70b6.png)
