@@ -8,7 +8,7 @@
 
 * instagram: [@talysonxx](https://instagram.com/talysonxx)
 * email: talysonoficial12@gmail.com
-* linkedIn:  [Talyson André](https://www.linkedin.com/in/talyson-andré-101897170/)
+* linkedIn:  [Talyson André](https://www.linkedin.com/in/talyson-andre-101897170/)
 
 ![pic-1](https://user-images.githubusercontent.com/79946114/125330300-f4c3e380-e31c-11eb-8501-45c67f236f8f.png)
 ![pic-2](https://user-images.githubusercontent.com/79946114/125330311-f8576a80-e31c-11eb-8886-e505c71d1f7e.png)
